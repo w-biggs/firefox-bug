@@ -9,3 +9,5 @@ The issue doesn't occur if you change the script to load non-asynchronously or d
 The issue doesn't occur if you change the script to load non-asynchronously or deferred.
 
 I serve up the pages via `npx http-server . -p 8123` but you can serve it up however you prefer.
+
+Bug filed on Bugzilla@Mozilla: https://bugzilla.mozilla.org/show_bug.cgi?id=1940828
